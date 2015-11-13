@@ -5,7 +5,7 @@ Thanks.
 boka (boka@slickage.com)
 
 ## Messages
-boka:  Thank you!
+boka:  Thank mister skeltal!
 
 ```
 git clone
